@@ -1,7 +1,6 @@
 package com.morgadope.api.domain;
 
 import lombok.*;
-
 import javax.persistence.*;
 
 
