@@ -4,7 +4,9 @@ import lombok.*;
 import javax.persistence.*;
 
 
-@Data
+
+@Getter
+@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity(name = "tb_user")
